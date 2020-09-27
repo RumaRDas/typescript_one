@@ -1,0 +1,23 @@
+{
+  "name": "typescript_one",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RumaRDas/typescript_one.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RumaRDas/typescript_one/issues"
+  },
+  "homepage": "https://github.com/RumaRDas/typescript_one#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
